@@ -13,7 +13,7 @@ export default function Contact() {
     const form = e.currentTarget;
     const data = new FormData(form);
 
-    await fetch("https://formspree.io/jacob.forcier@gmail.com", {
+    await fetch("https://formspree.io/f/mdayqgbr", {
       method: "POST",
       body: data,
       headers: { Accept: "application/json" },
