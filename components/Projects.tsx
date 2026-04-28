@@ -13,7 +13,7 @@ const projects = [
     status: "live" as const,
   },
   {
-    title: "Local Business Website",
+    title: "Easy Way LLC",
     description:
       "A clean, fast marketing website for a local small business. Built for mobile-first performance and easy to find on Google.",
     tags: ["Next.js", "Tailwind CSS", "Vercel"],

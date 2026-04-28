@@ -26,19 +26,18 @@ export default function About() {
             </h2>
             <div className="space-y-4 text-white/55 leading-relaxed">
               <p>
-                I&apos;m Jake — an independent developer who builds things from scratch
-                and ships them. I&apos;ve taken an iOS app from idea to the App Store,
-                designed and launched a website for a local business, and I&apos;m
-                currently deep in building a second app.
+                I&apos;m Jake — husband, father, and Product Manager at a large
+                tech and financial firm by day. On the side, I design and build
+                apps and websites from scratch and ship them into the real world.
               </p>
               <p>
-                I care about the whole picture: fast load times, clean design, and
-                an experience that makes sense to real people — not just other
-                developers.
+                I know what good software looks like from the inside. That
+                perspective shapes everything I build — fast, clean, and designed
+                for actual people, not just other developers.
               </p>
               <p>
-                Now I&apos;m looking to bring that same attention to local businesses
-                that deserve a great online presence.
+                My mission with small businesses is simple: give them an
+                outstanding online presence without the outrageous price tag.
               </p>
             </div>
 
