@@ -2,7 +2,16 @@
 
 import { motion, type Variants } from "framer-motion";
 
-const projects = [
+type Project = {
+  title: string;
+  description: string;
+  tags: string[];
+  link: string;
+  linkLabel: string;
+  status: "live" | "wip";
+};
+
+const projects: Project[] = [
   {
     title: "CoachSkip",
     description:
