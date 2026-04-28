@@ -22,13 +22,13 @@ const projects = [
     status: "live" as const,
   },
   {
-    title: "CurbFile",
+    title: "Ripple",
     description:
-      "A home improvement tracker app that helps homeowners log renovations, store receipts, and build a maintenance record for their property.",
-    tags: ["React Native", "Expo", "Supabase"],
-    link: "#",
-    linkLabel: "Coming Soon",
-    status: "wip" as const,
+      "A browser extension that turns everyday product recommendations into real commissions — automatically working across 48,000+ retailers with no setup required.",
+    tags: ["Browser Extension", "Affiliate", "Web"],
+    link: "https://sharewithripple.com",
+    linkLabel: "Visit Site",
+    status: "live" as const,
   },
 ];
 
