@@ -15,9 +15,9 @@ const spaceGrotesk = Space_Grotesk({
 });
 
 export const metadata: Metadata = {
-  title: "Jake Forcier — iOS & Web Developer",
+  title: "Jake Forcier — Builder & Web Designer in Manchester, NH",
   description:
-    "I build polished iOS apps and websites for real people. Based in the US, available for web design projects.",
+    "I build websites and apps for local businesses in Manchester, NH and beyond. Modern design, honest pricing, and ongoing care — without the agency price tag.",
 };
 
 export default function RootLayout({

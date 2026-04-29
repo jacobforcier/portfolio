@@ -18,8 +18,16 @@ export default function Home() {
       </main>
       <footer className="border-t border-white/5 py-8 px-6 text-center text-white/25 text-sm">
         <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
-          <span>© {new Date().getFullYear()} Jake Forcier. All rights reserved.</span>
+          <span>© {new Date().getFullYear()} Jake Forcier · Manchester, NH</span>
           <div className="flex items-center gap-6">
+            <a
+              href="https://www.linkedin.com/in/jacob-forcier"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-[#00f5d4] transition-colors"
+            >
+              LinkedIn
+            </a>
             <a
               href="https://github.com/jacobforcier"
               target="_blank"
