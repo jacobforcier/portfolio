@@ -46,7 +46,7 @@ export default function Hero() {
         className="relative z-10 max-w-4xl"
       >
         <p className="text-sm text-[#00f5d4] tracking-[0.2em] uppercase mb-6 font-medium">
-          Developer · Designer
+          Builder · Problem Solver
         </p>
 
         <h1 className="font-[family-name:var(--font-space-grotesk)] text-5xl sm:text-6xl md:text-7xl font-bold leading-tight tracking-tight mb-6">

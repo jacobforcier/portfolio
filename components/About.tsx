@@ -37,6 +37,12 @@ export default function About() {
                 for actual people, not just other developers.
               </p>
               <p>
+                I build with modern tools including AI — the same way a
+                contractor uses power tools instead of hand tools. The craft and
+                judgment are still mine. The result is faster delivery and lower
+                cost without cutting corners on quality.
+              </p>
+              <p>
                 My mission with small businesses is simple: give them an
                 outstanding online presence without the outrageous price tag.
               </p>
